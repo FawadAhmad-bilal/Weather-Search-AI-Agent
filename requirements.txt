@@ -1,0 +1,8 @@
+langchain-core
+langchain-classic
+langchain-community
+langchain-groq
+groq
+ddgs
+requests
+python-dotenv
